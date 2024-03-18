@@ -15,7 +15,7 @@ java {
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.9.2'
-    implementation 'com.google.guava:guava:31.1-jre'
+    implementation 'com.google.guava:guava:33.1.0-jre'
 
     implementation group: 'ch.qos.logback', name: 'logback-core', version: '1.4.5'
     implementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.4.5'
